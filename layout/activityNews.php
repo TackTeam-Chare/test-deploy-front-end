@@ -66,7 +66,7 @@
         <div class="row row-cols-1 row-cols-md-6 g-3 justify-content-center align-items-center">
       
             <div class="col mb-3 aos-init">
-                <a class="card text-reset text-decoration-none rounded-15" href="new.php">
+                <a class="card text-reset text-decoration-none rounded-15" href="new.html">
                     <img src="img/พัฒนาคุณภาพ.jpg" class="card-img-top img-autofit rounded-15" alt="news" style="height:200px;">
                     <div class="card-body">
                         <h5 class="card-title badge bg-primary text-wrap">การยกระดับฝึกอาชีพ การพัฒนาการตลาดให้กับสินค้า และพัฒนาคุณภาพชีวิตผู้พ้นโทษ</h5>
@@ -76,7 +76,7 @@
                 </a>
             </div>
             <div class="col mb-3 aos-init">
-                <a class="card text-reset text-decoration-none rounded-15" href="new.php">
+                <a class="card text-reset text-decoration-none rounded-15" href="new.html">
                     <img src="img/พัฒนาคุณภาพ.jpg" class="card-img-top img-autofit rounded-15" alt="news" style="height:200px;">
                     <div class="card-body">
                         <h5 class="card-title badge bg-primary text-wrap">การยกระดับฝึกอาชีพ การพัฒนาการตลาดให้กับสินค้า และพัฒนาคุณภาพชีวิตผู้พ้นโทษ</h5>
@@ -86,7 +86,7 @@
                 </a>
             </div>
             <div class="col mb-3 aos-init">
-                <a class="card text-reset text-decoration-none rounded-15" href="new.php">
+                <a class="card text-reset text-decoration-none rounded-15" href="new.html">
                     <img src="img/พัฒนาคุณภาพ.jpg" class="card-img-top img-autofit rounded-15" alt="news" style="height:200px;">
                     <div class="card-body">
                         <h5 class="card-title badge bg-primary text-wrap">การยกระดับฝึกอาชีพ การพัฒนาการตลาดให้กับสินค้า และพัฒนาคุณภาพชีวิตผู้พ้นโทษ</h5>
@@ -96,7 +96,7 @@
                 </a>
             </div>
             <div class="col mb-3 aos-init">
-                <a class="card text-reset text-decoration-none rounded-15" href="new.php">
+                <a class="card text-reset text-decoration-none rounded-15" href="new.html">
                     <img src="img/พัฒนาคุณภาพ.jpg" class="card-img-top img-autofit rounded-15" alt="news" style="height:200px;">
                     <div class="card-body">
                         <h5 class="card-title badge bg-primary text-wrap">การยกระดับฝึกอาชีพ การพัฒนาการตลาดให้กับสินค้า และพัฒนาคุณภาพชีวิตผู้พ้นโทษ</h5>
@@ -106,7 +106,7 @@
                 </a>
             </div>
             <div class="col mb-3 aos-init">
-                <a class="card text-reset text-decoration-none rounded-15" href="new.php">
+                <a class="card text-reset text-decoration-none rounded-15" href="new.html">
                     <img src="img/พัฒนาคุณภาพ.jpg" class="card-img-top img-autofit rounded-15" alt="news" style="height:200px;">
                     <div class="card-body">
                         <h5 class="card-title badge bg-primary text-wrap">การยกระดับฝึกอาชีพ การพัฒนาการตลาดให้กับสินค้า และพัฒนาคุณภาพชีวิตผู้พ้นโทษ</h5>
@@ -116,7 +116,7 @@
                 </a>
             </div>
             <div class="col mb-3 aos-init">
-                <a class="card text-reset text-decoration-none rounded-15" href="new.php">
+                <a class="card text-reset text-decoration-none rounded-15" href="new.html">
                     <img src="img/พัฒนาคุณภาพ.jpg" class="card-img-top img-autofit rounded-15" alt="news" style="height:200px;">
                     <div class="card-body">
                         <h5 class="card-title badge bg-primary text-wrap">การยกระดับฝึกอาชีพ การพัฒนาการตลาดให้กับสินค้า และพัฒนาคุณภาพชีวิตผู้พ้นโทษ</h5>
